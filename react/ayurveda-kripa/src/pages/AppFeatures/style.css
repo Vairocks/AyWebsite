@@ -1,0 +1,682 @@
+.app {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .app .div {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 3985px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .app .overlap {
+    height: 554px;
+    left: 0;
+    position: absolute;
+    top: 176px;
+    width: 1440px;
+  }
+  
+  .app .rectangle {
+    background: linear-gradient(180deg, rgb(189.14, 246.7, 215.52) 0%, rgba(189.14, 246.7, 215.52, 0) 87.7%);
+    height: 508px;
+    left: 0;
+    position: absolute;
+    top: 20px;
+    width: 1440px;
+  }
+  
+  .app .rectangle-2 {
+    background-color: #046108;
+    height: 502px;
+    left: 1112px;
+    position: absolute;
+    top: 26px;
+    width: 328px;
+  }
+  
+  .app .making-your-journey {
+    color: transparent;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 64px;
+    font-weight: 700;
+    left: 90px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 138px;
+    width: 707px;
+  }
+  
+  .app .text-wrapper {
+    color: #000000;
+  }
+  
+  .app .span {
+    color: #078d0d;
+  }
+  
+  .app .p {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 19.2px;
+    font-weight: 400;
+    left: 90px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 400px;
+    width: 275px;
+  }
+  
+  .app .frame {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 743px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .app .iphone {
+    height: 554px;
+    object-fit: cover;
+    position: relative;
+    width: 625px;
+  }
+  
+  .app .img {
+    height: 64px;
+    left: 323px;
+    position: absolute;
+    top: 38px;
+    width: 176px;
+  }
+  
+  .app .text-wrapper-2 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 335px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 47px;
+    width: 149px;
+  }
+  
+  .app .overlap-group-wrapper {
+    height: 68px;
+    left: 197px;
+    position: absolute;
+    top: 221px;
+    width: 110px;
+  }
+  
+  .app .overlap-group {
+    /* background-image: url(./rectangle-29.svg); */
+    background-size: 100% 100%;
+    height: 68px;
+    position: relative;
+    width: 148px;
+  }
+  
+  .app .text-wrapper-3 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+    width: 140px;
+  }
+  
+  .app .frame-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 48px;
+    left: 341px;
+    position: absolute;
+    top: 369px;
+    width: 100px;
+  }
+  
+  .app .rectangle-3 {
+    height: 87.02px;
+    margin-bottom: -39.02px;
+    margin-right: -58px;
+    position: relative;
+    width: 158px;
+  }
+  
+  .app .text-wrapper-4 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+  }
+  
+  .app .overlap-2 {
+    height: 541px;
+    left: 122px;
+    position: absolute;
+    top: 1561px;
+    width: 1225px;
+  }
+  
+  .app .rectangle-4 {
+    background-color: #046108;
+    height: 281px;
+    left: 0;
+    position: absolute;
+    top: 183px;
+    width: 1118px;
+  }
+  
+  .app .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 27.6px;
+    font-weight: 500;
+    left: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 282px;
+    width: 823px;
+  }
+  
+  .app .iphone-pro {
+    height: 541px;
+    left: 909px;
+    position: absolute;
+    top: 0;
+    width: 316px;
+  }
+  
+  .app .overlap-3 {
+    height: 541px;
+    left: 122px;
+    position: absolute;
+    top: 2820px;
+    width: 1224px;
+  }
+  
+  .app .rectangle-5 {
+    background-color: #046108;
+    height: 281px;
+    left: 0;
+    position: absolute;
+    top: 178px;
+    width: 1118px;
+  }
+  
+  .app .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 27.6px;
+    font-weight: 500;
+    left: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 270px;
+    width: 916px;
+  }
+  
+  .app .iphone-pro-2 {
+    height: 541px;
+    left: 908px;
+    position: absolute;
+    top: 0;
+    width: 316px;
+  }
+  
+  .app .overlap-4 {
+    height: 588px;
+    left: 0;
+    position: absolute;
+    top: 878px;
+    width: 1447px;
+  }
+  
+  .app .rectangle-6 {
+    background-color: #046108;
+    height: 281px;
+    left: 200px;
+    position: absolute;
+    top: 205px;
+    width: 1119px;
+  }
+  
+  .app .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 27.6px;
+    font-weight: 500;
+    left: 384px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 325px;
+    width: 907px;
+  }
+  
+  .app .group {
+    height: 50px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1447px;
+  }
+  
+  .app .line {
+    height: 3px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 27px;
+    width: 600px;
+  }
+  
+  .app .line-2 {
+    height: 4px;
+    left: 839px;
+    object-fit: cover;
+    position: absolute;
+    top: 24px;
+    width: 601px;
+  }
+  
+  .app .text-wrapper-8 {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 33.2px;
+    font-weight: 500;
+    left: 607px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .app .iphone-pro-3 {
+    height: 541px;
+    left: 90px;
+    position: absolute;
+    top: 47px;
+    width: 300px;
+  }
+  
+  .app .overlap-5 {
+    height: 510px;
+    left: 75px;
+    position: absolute;
+    top: 2214px;
+    width: 1243px;
+  }
+  
+  .app .rectangle-7 {
+    background-color: #046108;
+    height: 281px;
+    left: 125px;
+    position: absolute;
+    top: 125px;
+    width: 1118px;
+  }
+  
+  .app .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 27.6px;
+    font-weight: 500;
+    left: 290px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 224px;
+    width: 925px;
+  }
+  
+  .app .iphone-pro-4 {
+    height: 510px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 300px;
+  }
+  
+  .app .text-wrapper-10 {
+    color: #19851e;
+    font-family: "Ruluko-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    left: 132px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 74px;
+    white-space: nowrap;
+  }
+  
+  .app .text-wrapper-11 {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 19.2px;
+    font-weight: 500;
+    left: 852px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 74px;
+  }
+  
+  .app .text-wrapper-12 {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 19.2px;
+    font-weight: 500;
+    left: 1013px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 74px;
+  }
+  
+  .app .text-wrapper-13 {
+    color: #0e6011;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 19.2px;
+    font-weight: 500;
+    left: 1158px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 74px;
+  }
+  
+  .app .text-wrapper-14 {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 19.2px;
+    font-weight: 500;
+    left: 1285px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 74px;
+  }
+  
+  .app .whatsapp-image {
+    height: 80px;
+    left: 32px;
+    object-fit: cover;
+    position: absolute;
+    top: 48px;
+    width: 80px;
+  }
+  
+  .app .footer {
+    background-color: transparent;
+    height: 493px;
+    left: 4px;
+    position: absolute;
+    top: 3494px;
+    width: 1456px;
+  }
+  
+  .app .overlap-6 {
+    background: linear-gradient(180deg, rgb(107.53, 234.6, 165.77) 0%, rgba(83.15, 212.29, 142.34, 0) 100%);
+    height: 493px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .app .vision-values-app {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 555px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 39px;
+  }
+  
+  .app .text-wrapper-15 {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 32px;
+    font-weight: 500;
+    left: 555px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 259px;
+  }
+  
+  .app .text-wrapper-16 {
+    color: #000000;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 32px;
+    font-weight: 500;
+    left: 1046px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+  }
+  
+  .app .frame-3 {
+    align-items: center;
+    display: inline-flex;
+    gap: 35px;
+    left: 17px;
+    position: absolute;
+    top: 12px;
+  }
+  
+  .app .whatsapp-image-2 {
+    height: 80px;
+    object-fit: cover;
+    position: relative;
+    width: 80px;
+  }
+  
+  .app .text-wrapper-17 {
+    color: #19851e;
+    font-family: "Ruluko-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .app .we-envisage-a-rich {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 19.2px;
+    font-weight: 400;
+    left: 132px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 119px;
+    width: 274px;
+  }
+  
+  .app .text-wrapper-18 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 19.2px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .app .text-wrapper-19 {
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+  }
+  
+  .app .line-3 {
+    height: 1px;
+    left: 555px;
+    object-fit: cover;
+    position: absolute;
+    top: 227px;
+    width: 355px;
+  }
+  
+  .app .iconsax-bold {
+    height: 24px;
+    left: 555px;
+    position: absolute;
+    top: 332px;
+    width: 24px;
+  }
+  
+  .app .iconsax-bold-2 {
+    height: 24px;
+    left: 624px;
+    position: absolute;
+    top: 332px;
+    width: 24px;
+  }
+  
+  .app .iconsax-bold-youtube {
+    height: 24px;
+    left: 692px;
+    position: absolute;
+    top: 332px;
+    width: 24px;
+  }
+  
+  .app .image {
+    height: 104px;
+    left: 540px;
+    object-fit: cover;
+    position: absolute;
+    top: 373px;
+    width: 367px;
+  }
+  
+  .app .div-wrapper {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 54px;
+    left: 1013px;
+    position: absolute;
+    top: 103px;
+    width: 325px;
+  }
+  
+  .app .text-wrapper-20 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.5;
+    position: absolute;
+    top: 16px;
+  }
+  
+  .app .overlap-7 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 54px;
+    left: 1013px;
+    position: absolute;
+    top: 166px;
+    width: 325px;
+  }
+  
+  .app .overlap-group-2 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 54px;
+    left: 1013px;
+    position: absolute;
+    top: 229px;
+    width: 325px;
+  }
+  
+  .app .overlap-8 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 108px;
+    left: 1013px;
+    position: absolute;
+    top: 292px;
+    width: 325px;
+  }
+  
+  .app .text-wrapper-21 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.5;
+    position: absolute;
+    top: 16px;
+    width: 137px;
+  }
+  
+  .app .frame-4 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 1004px;
+    position: absolute;
+    top: 409px;
+  }
+  
+  .app .frame-5 {
+    background-color: #0e6011;
+    border-radius: 40px;
+    height: 54px;
+    position: relative;
+    width: 343px;
+  }
+  
+  .app .text-wrapper-22 {
+    color: #ffffff;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 139px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 15px;
+    white-space: nowrap;
+  }
+  
